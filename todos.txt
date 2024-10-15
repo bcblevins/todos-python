@@ -1,5 +1,3 @@
 oDo the dishes
 oMake dinner
 xGo to the store
-Start Laundry
-oStart Laundry
